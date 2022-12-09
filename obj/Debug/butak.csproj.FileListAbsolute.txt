@@ -1,0 +1,976 @@
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.csprojResolveAssemblyReference.cache
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.AnaFrm.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmDepoAyarlar.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmDepodakiParcalar.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmDepoEkle.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmDepoGuncelleme.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmKisiEkle.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmKritikParcalar.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmParcaAra.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmParcaAraDetay.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmParcaEkle.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmParcaGuncelle.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmParcaGunclleDetay.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmParcaSilme.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmParcaSilmeDetay.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmRehber.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmSatisAdet.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmSepet.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmUrunSatis.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmYilAyGunSecim.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmYilAySecim.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmYilSecim.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.frmİkiTarihSecim.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.Properties.Resources.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.rprSatis.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.rprTarihSatis.resources
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.csproj.GenerateResource.Cache
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.exe.licenses
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\butak.exe.config
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\butak.exe
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\butak.pdb
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Data.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Office.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Utils.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraBars.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.CodeParser.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraSpellChecker.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.SpellChecker.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Xpo.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Data.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Office.v17.1.Core.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Utils.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraBars.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraSpellChecker.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.SpellChecker.v17.1.Core.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Xpo.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.XtraSpellChecker.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.XtraSpellChecker.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.exe
+c:\users\raif\documents\visual studio 2015\Projects\butak\butak\obj\Debug\butak.pdb
+C:\Users\raif\Desktop\butak\butak\bin\Debug\butak.exe.config
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.exe
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.pdb
+C:\Users\raif\Desktop\butak\butak\bin\Debug\butak.exe
+C:\Users\raif\Desktop\butak\butak\bin\Debug\butak.pdb
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraSpellChecker.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.SpellChecker.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraSpellChecker.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.SpellChecker.v17.1.Core.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.AnaFrm.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmKisiEkle.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmKritikParcalar.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmParcaAra.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmParcaAraDetay.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmParcaEkle.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmParcaGuncelle.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmParcaGunclleDetay.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmParcaSilme.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmParcaSilmeDetay.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmRehber.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmSatisAdet.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmSepet.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmUrunSatis.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmYilAyGunSecim.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmYilAySecim.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmYilSecim.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmİkiTarihSecim.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.Properties.Resources.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.rprSatis.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.rprTarihSatis.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.csproj.GenerateResource.Cache
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+C:\Users\raif\Desktop\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmProgramKontrol.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmGrupEkle.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmGrupSilme.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmGrupGuncelle.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmKisiGrupGuncelle.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmKisiGuncelle.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmExcelVeriCek.resources
+D:\butak\butak\bin\Debug\butak.exe.config
+D:\butak\butak\obj\Debug\butak.exe
+D:\butak\butak\obj\Debug\butak.pdb
+D:\butak\butak\bin\Debug\butak.exe
+D:\butak\butak\bin\Debug\butak.pdb
+D:\butak\butak\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\butak\butak\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\butak\butak\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\butak\butak\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\butak\butak\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\butak\butak\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\butak\butak\bin\Debug\DevExpress.XtraSpellChecker.v17.1.dll
+D:\butak\butak\bin\Debug\DevExpress.SpellChecker.v17.1.Core.dll
+D:\butak\butak\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\butak\butak\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\butak\butak\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\butak\butak\bin\Debug\DevExpress.Data.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\butak\butak\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\butak\butak\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\butak\butak\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\butak\butak\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\butak\butak\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraSpellChecker.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.SpellChecker.v17.1.Core.xml
+D:\butak\butak\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\butak\butak\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\butak\butak\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\butak\butak\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.XtraSpellChecker.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.XtraSpellChecker.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\butak\butak\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\butak\butak\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\butak\butak\obj\Debug\butak.csprojResolveAssemblyReference.cache
+D:\butak\butak\obj\Debug\butak.AnaFrm.resources
+D:\butak\butak\obj\Debug\butak.frmDepoAyarlar.resources
+D:\butak\butak\obj\Debug\butak.frmDepoEkle.resources
+D:\butak\butak\obj\Debug\butak.frmDepoGuncelleme.resources
+D:\butak\butak\obj\Debug\butak.frmExcelVeriCek.resources
+D:\butak\butak\obj\Debug\butak.frmGrupEkle.resources
+D:\butak\butak\obj\Debug\butak.frmGrupGuncelle.resources
+D:\butak\butak\obj\Debug\butak.frmGrupSilme.resources
+D:\butak\butak\obj\Debug\butak.frmKisiEkle.resources
+D:\butak\butak\obj\Debug\butak.frmKisiGrupGuncelle.resources
+D:\butak\butak\obj\Debug\butak.frmKisiGuncelle.resources
+D:\butak\butak\obj\Debug\butak.frmKritikParcalar.resources
+D:\butak\butak\obj\Debug\butak.frmParcaAra.resources
+D:\butak\butak\obj\Debug\butak.frmParcaAraDetay.resources
+D:\butak\butak\obj\Debug\butak.frmParcaEkle.resources
+D:\butak\butak\obj\Debug\butak.frmParcaGuncelle.resources
+D:\butak\butak\obj\Debug\butak.frmParcaGunclleDetay.resources
+D:\butak\butak\obj\Debug\butak.frmParcaSilme.resources
+D:\butak\butak\obj\Debug\butak.frmParcaSilmeDetay.resources
+D:\butak\butak\obj\Debug\butak.frmProgramKontrol.resources
+D:\butak\butak\obj\Debug\butak.frmRehber.resources
+D:\butak\butak\obj\Debug\butak.frmSatisAdet.resources
+D:\butak\butak\obj\Debug\butak.frmSepet.resources
+D:\butak\butak\obj\Debug\butak.frmUrunSatis.resources
+D:\butak\butak\obj\Debug\butak.frmYilAyGunSecim.resources
+D:\butak\butak\obj\Debug\butak.frmYilAySecim.resources
+D:\butak\butak\obj\Debug\butak.frmYilSecim.resources
+D:\butak\butak\obj\Debug\butak.frmİkiTarihSecim.resources
+D:\butak\butak\obj\Debug\butak.Properties.Resources.resources
+D:\butak\butak\obj\Debug\butak.rprSatis.resources
+D:\butak\butak\obj\Debug\butak.rprTarihSatis.resources
+D:\butak\butak\obj\Debug\butak.csproj.GenerateResource.Cache
+D:\butak\butak\obj\Debug\butak.exe.licenses
+E:\butak\butak\bin\Debug\butak.exe.config
+E:\butak\butak\obj\Debug\butak.exe
+E:\butak\butak\obj\Debug\butak.pdb
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmParcaSatisBilgisi.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmParcaSatisBilgiDetay.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.rprGunCiro.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmCiroYilAySecim.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.frmCiroTarihSecim.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.rprAyCiro.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.rprYilCiro.resources
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.csprojResolveAssemblyReference.cache
+C:\Users\raif\Desktop\butak\butak\obj\Debug\butak.exe.licenses
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\butak.exe.config
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\butak.exe
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\butak.pdb
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraSpellChecker.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.SpellChecker.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraSpellChecker.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.SpellChecker.v17.1.Core.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.AnaFrm.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmCiroTarihSecim.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmCiroYilAySecim.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmExcelVeriCek.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmGrupEkle.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmGrupGuncelle.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmGrupSilme.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmKisiEkle.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmKisiGrupGuncelle.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmKisiGuncelle.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmKritikParcalar.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmParcaAra.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmParcaAraDetay.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmParcaEkle.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmParcaGuncelle.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmParcaGunclleDetay.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmParcaSatisBilgiDetay.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmParcaSatisBilgisi.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmParcaSilme.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmParcaSilmeDetay.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmProgramKontrol.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmRehber.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmSatisAdet.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmSepet.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmUrunSatis.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmYilAyGunSecim.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmYilAySecim.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmYilSecim.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.frmİkiTarihSecim.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.Properties.Resources.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.rprAyCiro.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.rprGunCiro.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.rprSatis.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.rprTarihSatis.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.rprYilCiro.resources
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.csproj.GenerateResource.Cache
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.exe.licenses
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.exe
+C:\Users\Ahmet Can\Desktop\Proje\butak\butak\obj\Debug\butak.pdb

@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{785EA7A4-C2C8-400B-BA6C-6F4AD5C34266}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>butak</RootNamespace>
+    <AssemblyName>butak</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v17.1" />
+    <Reference Include="DevExpress.Charts.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v17.1" />
+    <Reference Include="DevExpress.DataAccess.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v17.1.Core" />
+    <Reference Include="DevExpress.RichEdit.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v17.1.Export, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v17.1" />
+    <Reference Include="DevExpress.Utils.v17.1.UI, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v17.1" />
+    <Reference Include="DevExpress.Sparkline.v17.1.Core" />
+    <Reference Include="DevExpress.XtraCharts.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v17.1.UI, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v17.1.Wizard, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v17.1" />
+    <Reference Include="DevExpress.XtraGauges.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.1.Extensions, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v17.1.Extensions, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v17.1.Reporting, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v17.1.Reporting.Extensions, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaFrm.designer.cs">
+      <DependentUpon>AnaFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsDelete.cs" />
+    <Compile Include="clsExcelSelect.cs" />
+    <Compile Include="clsInsert.cs" />
+    <Compile Include="clsKarakterTemizleme.cs" />
+    <Compile Include="clsMatIslem.cs" />
+    <Compile Include="clsSelect.cs" />
+    <Compile Include="clsUpdate.cs" />
+    <Compile Include="frmCiroTarihSecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCiroTarihSecim.Designer.cs">
+      <DependentUpon>frmCiroTarihSecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCiroYilAySecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCiroYilAySecim.Designer.cs">
+      <DependentUpon>frmCiroYilAySecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcelVeriCek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcelVeriCek.Designer.cs">
+      <DependentUpon>frmExcelVeriCek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrupEkle.Designer.cs">
+      <DependentUpon>frmGrupEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrupGuncelle.Designer.cs">
+      <DependentUpon>frmGrupGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrupSilme.Designer.cs">
+      <DependentUpon>frmGrupSilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKisiEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKisiEkle.Designer.cs">
+      <DependentUpon>frmKisiEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKisiGrupGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKisiGrupGuncelle.Designer.cs">
+      <DependentUpon>frmKisiGrupGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKisiGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKisiGuncelle.Designer.cs">
+      <DependentUpon>frmKisiGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKritikParcalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKritikParcalar.designer.cs">
+      <DependentUpon>frmKritikParcalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParcaAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParcaAra.designer.cs">
+      <DependentUpon>frmParcaAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParcaAraDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParcaAraDetay.designer.cs">
+      <DependentUpon>frmParcaAraDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParcaEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParcaEkle.designer.cs">
+      <DependentUpon>frmParcaEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParcaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParcaGuncelle.designer.cs">
+      <DependentUpon>frmParcaGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParcaGunclleDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParcaGunclleDetay.designer.cs">
+      <DependentUpon>frmParcaGunclleDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParcaSatisBilgiDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParcaSatisBilgiDetay.Designer.cs">
+      <DependentUpon>frmParcaSatisBilgiDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParcaSatisBilgisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParcaSatisBilgisi.Designer.cs">
+      <DependentUpon>frmParcaSatisBilgisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParcaSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParcaSilme.designer.cs">
+      <DependentUpon>frmParcaSilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParcaSilmeDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParcaSilmeDetay.designer.cs">
+      <DependentUpon>frmParcaSilmeDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProgramKontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProgramKontrol.Designer.cs">
+      <DependentUpon>frmProgramKontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRehber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRehber.designer.cs">
+      <DependentUpon>frmRehber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSatisAdet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSatisAdet.designer.cs">
+      <DependentUpon>frmSatisAdet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSepet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSepet.designer.cs">
+      <DependentUpon>frmSepet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUrunSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUrunSatis.designer.cs">
+      <DependentUpon>frmUrunSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYilAyGunSecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYilAyGunSecim.designer.cs">
+      <DependentUpon>frmYilAyGunSecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYilAySecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYilAySecim.designer.cs">
+      <DependentUpon>frmYilAySecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYilSecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYilSecim.designer.cs">
+      <DependentUpon>frmYilSecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmİkiTarihSecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmİkiTarihSecim.designer.cs">
+      <DependentUpon>frmİkiTarihSecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rprAyCiro.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rprAyCiro.Designer.cs">
+      <DependentUpon>rprAyCiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rprGunCiro.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rprGunCiro.Designer.cs">
+      <DependentUpon>rprGunCiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rprSatis.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rprSatis.designer.cs">
+      <DependentUpon>rprSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rprTarihSatis.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rprTarihSatis.designer.cs">
+      <DependentUpon>rprTarihSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rprYilCiro.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rprYilCiro.Designer.cs">
+      <DependentUpon>rprYilCiro.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnaFrm.resx">
+      <DependentUpon>AnaFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCiroTarihSecim.resx">
+      <DependentUpon>frmCiroTarihSecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCiroYilAySecim.resx">
+      <DependentUpon>frmCiroYilAySecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExcelVeriCek.resx">
+      <DependentUpon>frmExcelVeriCek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrupEkle.resx">
+      <DependentUpon>frmGrupEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrupGuncelle.resx">
+      <DependentUpon>frmGrupGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrupSilme.resx">
+      <DependentUpon>frmGrupSilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKisiEkle.resx">
+      <DependentUpon>frmKisiEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKisiGrupGuncelle.resx">
+      <DependentUpon>frmKisiGrupGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKisiGuncelle.resx">
+      <DependentUpon>frmKisiGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKritikParcalar.resx">
+      <DependentUpon>frmKritikParcalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParcaAra.resx">
+      <DependentUpon>frmParcaAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParcaAraDetay.resx">
+      <DependentUpon>frmParcaAraDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParcaEkle.resx">
+      <DependentUpon>frmParcaEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParcaGuncelle.resx">
+      <DependentUpon>frmParcaGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParcaGunclleDetay.resx">
+      <DependentUpon>frmParcaGunclleDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParcaSatisBilgiDetay.resx">
+      <DependentUpon>frmParcaSatisBilgiDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParcaSatisBilgisi.resx">
+      <DependentUpon>frmParcaSatisBilgisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParcaSilme.resx">
+      <DependentUpon>frmParcaSilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParcaSilmeDetay.resx">
+      <DependentUpon>frmParcaSilmeDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProgramKontrol.resx">
+      <DependentUpon>frmProgramKontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRehber.resx">
+      <DependentUpon>frmRehber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSatisAdet.resx">
+      <DependentUpon>frmSatisAdet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSepet.resx">
+      <DependentUpon>frmSepet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUrunSatis.resx">
+      <DependentUpon>frmUrunSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYilAyGunSecim.resx">
+      <DependentUpon>frmYilAyGunSecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYilAySecim.resx">
+      <DependentUpon>frmYilAySecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYilSecim.resx">
+      <DependentUpon>frmYilSecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmİkiTarihSecim.resx">
+      <DependentUpon>frmİkiTarihSecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="rprAyCiro.resx">
+      <DependentUpon>rprAyCiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rprGunCiro.resx">
+      <DependentUpon>rprGunCiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rprSatis.resx">
+      <DependentUpon>rprSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rprTarihSatis.resx">
+      <DependentUpon>rprTarihSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rprYilCiro.resx">
+      <DependentUpon>rprYilCiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
